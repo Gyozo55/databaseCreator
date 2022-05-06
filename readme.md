@@ -1,4 +1,4 @@
-						Multi Alarm homework 
+						Data Base Creator 
 
 Esentional programs you need to use this database creation script:
 
